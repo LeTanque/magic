@@ -1,0 +1,2 @@
+# magic
+MtG Collection Manager
