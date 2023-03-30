@@ -1,5 +1,14 @@
 {
-  "extends": "./tsconfig.json",
+  "extends": [
+    "./tsconfig.json",
+    "plugin:prettier/recommended"
+  ],
   // the @typescript-eslint parser requires that all linted files be listed here
-  "include": ["src/**/*", "pages/**/*", "*.js", "*.ts", ".eslintrc.js"]
+  "include": [
+    "src/**/*",
+    "pages/**/*",
+    "*.js",
+    "*.ts",
+    ".eslintrc.js"
+  ]
 }
