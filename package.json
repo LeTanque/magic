@@ -1,12 +1,12 @@
 {
-  "name": "react-interview",
+  "name": "magic",
   "author": {
-    "name": "Runway Engineering",
-    "email": "eng@runway.com",
-    "url": "https://www.runway.com"
+    "name": "Frank Martinez",
+    "email": "get@frank3.me",
+    "url": "https://www.frank3.me"
   },
   "version": "0.1.0",
-  "description": "A starter app for Runway's frontend exercise.",
+  "description": "Magic the Gathering card collection management",
   "private": true,
   "dependencies": {
     "@chakra-ui/icons": "^2.0.11",
