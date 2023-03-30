@@ -8,7 +8,7 @@ export default function Home() {
     <>
       <Head>
         <title>Magic</title>
-        <link rel="icon" href="https://raw.githubusercontent.com/LeTanque/magic/main/public/favicon.jpg" />
+        <link rel="icon" href="https://raw.githubusercontent.com/LeTanque/magic/main/public/favicon.png" />
       </Head>
       <App />
     </>
